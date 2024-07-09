@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723649908992",
+    "project_id": "smth-app",
+    "storage_bucket": "smth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723649908992:android:2d2907676c45ade329e3e5",
+        "android_client_info": {
+          "package_name": "com.smith_app.smith_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Tt7sV47Z_d4UyYrLVx_q0GAhXK-WN-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
